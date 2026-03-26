@@ -25,9 +25,10 @@ Bu proje, mimarlık ofisi veya kişisel portfolyo sunumu için hazırlanmış ba
 Mimarlık-Sitesi/
 |- index.html
 |- style.css
+|- README.md
 `- img/
-   `- background.png
-     `- Proje-Görüntüsü.png 
+   |- background.png
+   `- Proje-Görüntüsü.png
 ```
 
 ## Kurulum ve Calistirma
@@ -45,10 +46,9 @@ Ek bir kütüphane veya kurulum gerektirmez.
 - Görselleri optimize ederek performansı artirma
 
 ## Ekran Goruntusu
-```md
-![Proje Goruntusu](img/Proje-Görüntüsü.png)
-```
 
-## Lisans
+![Proje Görüntüsü](img/Proje-Görüntüsü.png)
+
+## Kullanim
 
 Bu proje öğrenme, geliştirme ve portfolyo amaçli kullanılabilir.
